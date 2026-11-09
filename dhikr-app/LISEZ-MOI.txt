@@ -1,0 +1,6 @@
+DHIKR - Compteur & Azkar (application web installable, 100 % hors ligne)
+Tester sur PC : VS Code > extension "Live Server" > clic droit sur index.html > Open with Live Server.
+Mettre sur le téléphone : déposer ce dossier sur https://app.netlify.com/drop (glisser-déposer), ouvrir le lien sur le téléphone,
+puis "Ajouter à l'écran d'accueil" (Chrome Android : menu ⋮ > Installer l'application ; iPhone : Safari > Partager > Sur l'écran d'accueil).
+Ouvrir une fois avec internet : ensuite l'application fonctionne sans connexion.
+Les données (compteurs, historique) restent dans le téléphone.
